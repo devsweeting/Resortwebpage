@@ -1,8 +1,46 @@
 h1 {
-  background-color: salmon;
+  background-image: url(https://static1.visitestonia.com/images/2890339/Estonian_forest_reasons_to_visit_Sven_Zacek.jpg);
   text-align: center;
   font-family: fantasy;
   padding: 25px;
   font-size: 60px;
-  background-image: image(https://naples.viliving.com/-/media/vi/communities/bentley-village/community-home/1-tall-header/bv_homepage_redev.ashx?h=533&la=en&w=1366&hash=8A4E6E696B16F7B81DDF5401D7B8B3ACE597DCAD);
+  color: white;
+  font-weight: bold;
+}
+
+p {
+  font-family: serif;
+  text-align: justify;
+  margin: 50px;
+
+}
+p2{
+  font-size: 20px;
+  font-style: oblique;
+  font-variant: small-caps;
+  font-kerning: none;
+}
+body {
+  background-color: #73A3C3;
+}
+
+h2 {
+  text-align: center;
+  font-size: 20px
+}
+ul {
+  text-align: center;
+}
+ol {
+  text-align: center;
+}
+
+img {
+    width: 70%;
+    height: auto;
+    margin-left: 300px;
+
+}
+.old_people {
+  margin-top: 50px;
 }
